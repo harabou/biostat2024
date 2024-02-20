@@ -37,7 +37,7 @@
 
 |実習回|講義資料リンク|
 |---|---|
-|第1回|[講義資料・解析データ](https://drive.google.com/drive/folders/17W9MJdQZ--QhhkW6ikxvw0JW3SvRgFsl?usp=sharing)|
+|#1|[分布・グラフ・相関・データハンドリング](https://github.com/harabou/biostat2024/blob/main/%2301_NCD_Biostatistics.jmpprj)|
 |第2回|[講義資料・解析データ](https://drive.google.com/drive/folders/12FUpfz8r6Niyq56dIekNTwIl-EkhuHQP?usp=sharing)|
 |第3回|[講義資料・解析データ](https://drive.google.com/drive/folders/1Y3nzc_OCyrbT3Z3V6Sww7qJHcv5qycq8?usp=sharing)|
 |第4回|[講義資料・解析データ](https://drive.google.com/drive/folders/1nQlfY9zIlsfy0o3pVJBa4FL49AvFOE9i?usp=sharing)|
