@@ -9,7 +9,7 @@
 
 |節・タイトル|講義資料リンク|
 |---|---|
-|レジュメ|[レジュメ](https://drive.google.com/file/d/1vq4fiBWyU8wTeEMFERO35DnQ0qeiL7ib/view?usp=sharing)|
+|レジュメ|[レジュメ](　)|
 
 |実習回|講義資料リンク|
 |---|---|
