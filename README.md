@@ -29,5 +29,5 @@
 |---|---|
 |EZR|[EZR解説](https://drive.google.com/file/d/1q1gDk043NU8RZRZIoUrLRygsSDP2Ij-Z/view?usp=drive_link)|
 |JMP|[JMPBasic](https://github.com/harabou/biostat2024/blob/main/JMPBasic.pdf)|
-|JMP|[JMP看護系](https://github.com/harabou/biostat2024/blob/main/JMPBasic.pdf)|
+|JMP|[JMP看護系](https://github.com/harabou/biostat2024/blob/main/JMPKango.pdf)|
 
