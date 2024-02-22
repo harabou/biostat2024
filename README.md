@@ -23,7 +23,7 @@
 |#6|[傾向スコア](https://github.com/harabou/biostat2024/blob/main/%2306_%E5%82%BE%E5%90%91%E3%82%B9%E3%82%B3%E3%82%A2%E3%83%9E%E3%83%83%E3%83%81.jmpprj)|
 |#7|[多変量解析](https://github.com/harabou/biostat2024/blob/main/%2307_%E5%A4%9A%E5%A4%89%E9%87%8F%E8%A7%A3%E6%9E%90.jmpprj)|
 |#8|[データハンドリング](https://github.com/harabou/biostat2024/blob/main/%2308_Compare.jmpprj)|
-|#9|[機械学習手法](https://github.com/harabou/biostat2024/blob/main/%2308_Compare.jmpprj)|
+|#9|[機械学習手法](https://github.com/harabou/biostat2024/blob/main/%2309_Diabetes.jmpprj)|
 
 
 
