@@ -10,7 +10,7 @@
 |節・タイトル|講義資料リンク|
 |---|---|
 |レジュメ|[レジュメ](https://github.com/harabou/biostat2024/blob/main/20240222_8_JMP%E8%A7%A3%E6%9E%90%E6%BC%94%E7%BF%92.pdf)|
-|レジュメ|[レジュメ（追加）](https://github.com/harabou/biostat2024/blob/main/20240222_8_JMP%E8%A7%A3%E6%9E%90%E6%BC%94%E7%BF%92.pdf)|
+|レジュメ|[レジュメ（差し替え）](https://github.com/harabou/biostat2024/blob/main/%EF%BC%88%E5%B7%AE%E3%81%97%E6%9B%BF%E3%81%88%EF%BC%8920240222_8_JMP%E8%A7%A3%E6%9E%90%E6%BC%94%E7%BF%92_0222%E8%BF%BD%E5%8A%A0.pdf)|
 
 
 |実習回|講義資料リンク|
