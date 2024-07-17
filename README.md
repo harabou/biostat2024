@@ -13,7 +13,7 @@
 |レジュメ|[レジュメ（差し替え）](https://github.com/harabou/biostat2024/blob/main/%EF%BC%88%E5%B7%AE%E3%81%97%E6%9B%BF%E3%81%88%EF%BC%8920240222_8_JMP%E8%A7%A3%E6%9E%90%E6%BC%94%E7%BF%92_0222%E8%BF%BD%E5%8A%A0.pdf)|
 
 
-|実習回|講義資料リンク|
+|番号|講義資料リンク|
 |---|---|
 |#1|[分布・グラフ・相関・データハンドリング](https://github.com/harabou/biostat2024/blob/main/%2301_NCD_Biostatistics.jmpprj)|
 |#2|[2群比較（t検定,カイ2乗検定](https://github.com/harabou/biostat2024/blob/main/%2302_Group%20comparison.jmpprj)|
