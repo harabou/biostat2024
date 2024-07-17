@@ -24,6 +24,7 @@
 |#7|[多変量解析](https://github.com/harabou/biostat2024/blob/main/%2307_%E5%A4%9A%E5%A4%89%E9%87%8F%E8%A7%A3%E6%9E%90.jmpprj)|
 |#8|[データハンドリング](https://github.com/harabou/biostat2024/blob/main/%2308_Compare.jmpprj)|
 |#9|[機械学習手法](https://github.com/harabou/biostat2024/blob/main/%2309_Diabetes.jmpprj)|
+|#10|[一般化線形混合モデル](https://github.com/harabou/biostat2024/blob/22c20af8ab56bd321d950cbd8e5aa9020f08f52c/%E4%B8%80%E8%88%AC%E5%8C%96%E7%B7%9A%E5%BD%A2%E6%B7%B7%E5%90%88%E3%83%A2%E3%83%87%E3%83%AB.jmpprj)|
 
 
 
